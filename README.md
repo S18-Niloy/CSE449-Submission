@@ -13,8 +13,8 @@ Group Number:
 6
 
 Group Members:
-20301207 Name Soumik Deb Niloy
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20301207 Soumik Deb Niloy
+23166032 Md Asaduzzaman Sarker Anik
+20301386 Abdullah Jamil Sifat
+20301317 Jawad Ul Tashick 
+21301169 Mashira Rofi 
