@@ -1,10 +1,10 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/....
 
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: https://youtu.be/_M8wmSjHZPo?si=auLymUk64yXIJRLO
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1d0E6p1hvewPtetriu4OICFbGn2Zcr6A0tV8k_rKHmDw/edit#slide=id.g257675dcafb_0_8
 
 Project title:
 "Federated Learning for Empowering Large Language Models"
