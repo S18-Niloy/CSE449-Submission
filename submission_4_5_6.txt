@@ -6,8 +6,7 @@ submission 6: https://www.overleaf.com/5293253642gpxgfhwrdsxh
 Unlisted YouTube video:
 https://youtu.be/_M8wmSjHZPo?si=aSy6FeUd2O5lcSBG
 
-Conference submitted paper / paper submission / login Link:
-https://easy....
+Conference submitted paper / paper submission / login Link: https://waset.org/archaeology-conference-in-october-2023-in-london
 
 Paper title:
 Federated Learning for Empowering Large Language Models
@@ -15,15 +14,15 @@ Federated Learning for Empowering Large Language Models
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/160OZDatMpHX_t3AcIVUh-hmCSf6JvjKs3mh1WknEmIc/edit#slide=id.g27ae35ff3b9_0_103
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 03/09/2023
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: 23GB100095
 
 
-Conference Name:
+Conference Name: International Conference on Archaeology
 
-Conference URL:
+Conference URL: https://waset.org/archaeology-conference-in-october-2023-in-london
 
 
 Group Number:
