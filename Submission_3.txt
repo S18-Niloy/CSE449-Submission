@@ -10,8 +10,7 @@ Brendan Burns
 Link to the book:
 https://azure.microsoft.com/mediahandler/files/resourcefiles/designing-distributed-systems/Designing_Distributed_Systems.pdf
 
-Link to the book chapter:
-https://books.google.com/books...
+book chapter: 06
 
 Group Number:
 6
