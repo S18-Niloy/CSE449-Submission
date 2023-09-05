@@ -21,6 +21,7 @@ Conference Name: International Conference on Archaeology
 Paper code: 23GB100095
 Manuscript id: 172410
 Conference URL: https://waset.org/archaeology-conference-in-october-2023-in-london
+Invitation letter: https://waset.org/doc/paper-acceptance-letter/172410
 
 //////////////////////Easychair submission////////////////////////
 Another Submission: https://easychair.org/publications/preprint/LV6c
