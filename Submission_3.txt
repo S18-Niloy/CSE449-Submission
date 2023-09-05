@@ -14,11 +14,11 @@ Link to the book chapter:
 https://books.google.com/books...
 
 Group Number:
-0
+6
 
-Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+Group members:
+20301207 Soumik Deb Niloy
+23166032 Md Asaduzzaman Sarker Anik
+20301386 Abdullah Jamil Sifat
+20301317 Jawad Ul Tashick 
+21301169 Mashira Rofi
