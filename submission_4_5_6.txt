@@ -14,7 +14,7 @@ Federated Learning for Empowering Large Language Models
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/160OZDatMpHX_t3AcIVUh-hmCSf6JvjKs3mh1WknEmIc/edit#slide=id.g27ae35ff3b9_0_103
 
-////////////////////Conference submission////////////////////////
+////////////////////Conference submission and acceptance letter////////////////////////
 Conference link: https://waset.org/communication-and-linguistics-studies-conference-in-october-2023-in-athens
 paper code: 23GB100095
 Acceptance letter: https://waset.org/doc/paper-acceptance-letter/172410
