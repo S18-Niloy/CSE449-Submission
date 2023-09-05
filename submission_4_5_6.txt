@@ -1,12 +1,12 @@
-Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+Overleaf link with edit access to course instructor Gmail and then email "anybody can edit" link to ST, RA.
 Submission 4: https://www.overleaf.com/1647779945hhntpdjmpwrj
 Submission 5: https://www.overleaf.com/5964559269rknpkfywdnxx
-submission 6: https://www.overleaf.com/5293253642gpxgfhwrdsxh
+Submission 6: https://www.overleaf.com/5293253642gpxgfhwrdsxh
 
 Unlisted YouTube video:
 https://youtu.be/_M8wmSjHZPo?si=aSy6FeUd2O5lcSBG
 
-Conference submitted paper / paper submission / login Link: https://waset.org/archaeology-conference-in-october-2023-in-london
+Conference submitted paper/paper submission/login Link: https://waset.org/archaeology-conference-in-october-2023-in-london, https://easychair.org/publications/preprint/LV6c
 
 Paper title:
 Federated Learning for Empowering Large Language Models
@@ -14,15 +14,17 @@ Federated Learning for Empowering Large Language Models
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/160OZDatMpHX_t3AcIVUh-hmCSf6JvjKs3mh1WknEmIc/edit#slide=id.g27ae35ff3b9_0_103
 
+////////////////////Conference submission////////////////////////
 Paper submission date (to workshop/conference): 03/09/2023
 
-
-Paper submission ID: 23GB100095
-
-
 Conference Name: International Conference on Archaeology
-
+Paper code: 23GB100095
+Manuscript id: 172410
 Conference URL: https://waset.org/archaeology-conference-in-october-2023-in-london
+
+//////////////////////Easychair submission////////////////////////
+Another Submission: https://easychair.org/publications/preprint/LV6c
+Easychair preprint no. 10828
 
 
 Group Number:
