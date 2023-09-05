@@ -6,7 +6,7 @@ Submission 6: https://www.overleaf.com/5293253642gpxgfhwrdsxh
 Unlisted YouTube video:
 https://youtu.be/_M8wmSjHZPo?si=aSy6FeUd2O5lcSBG
 
-Conference submitted paper/paper submission/login Link: https://papersubmission.scirp.org/center, https://easychair.org/publications/preprint/LV6c
+Conference submitted paper/paper submission/login Link: https://waset.org/, https://easychair.org/publications/preprint/LV6c
 
 Paper title:
 Federated Learning for Empowering Large Language Models
@@ -14,10 +14,10 @@ Federated Learning for Empowering Large Language Models
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/160OZDatMpHX_t3AcIVUh-hmCSf6JvjKs3mh1WknEmIc/edit#slide=id.g27ae35ff3b9_0_103
 
-////////////////////Journal submission////////////////////////
-Journal Name: Journal of Information Security
-Manuscript id: 7800937
-URL: https://papersubmission.scirp.org/center
+////////////////////Conference submission////////////////////////
+Conference link: https://waset.org/communication-and-linguistics-studies-conference-in-october-2023-in-athens
+paper code: 23GB100095
+Acceptance letter: https://waset.org/doc/paper-acceptance-letter/172410
 
 //////////////////////Easychair submission////////////////////////
 Another Submission: https://easychair.org/publications/preprint/LV6c
