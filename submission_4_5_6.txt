@@ -16,6 +16,7 @@ https://docs.google.com/presentation/d/160OZDatMpHX_t3AcIVUh-hmCSf6JvjKs3mh1WknE
 ////////////////////Conference submission and acceptance letter////////////////////////
 Conference link: https://waset.org/communication-and-linguistics-studies-conference-in-october-2023-in-athens
 paper code: 23GB100095
+Manuscript ID: 172410
 Acceptance letter: https://waset.org/doc/paper-acceptance-letter/172410
 
 //////////////////////Easychair submission////////////////////////
